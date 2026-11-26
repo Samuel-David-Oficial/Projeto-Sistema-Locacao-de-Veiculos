@@ -7,7 +7,8 @@ A interface (React + TypeScript + Vite) consome a API de verdade, sem listas fix
 ## Integrantes
 
 - Samuel David
-- (inclua aqui o nome completo dos demais integrantes do grupo)
+- Arthur Alexandre
+- Gilverson Rodrigues
 
 ## Funcionalidades
 
